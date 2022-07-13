@@ -1,0 +1,3 @@
+[submodule "illagerbot"]
+	path = illagerbot
+	url = https://github.com/IllagerCaptain/illagerbot.illagercaptain.net
